@@ -22,14 +22,14 @@ const Navbar = () => {
           Home
         </Link>
         <Link
-          className={`link ${pathname === "/about" ? "active" : ""}`}
-          href="/about"
+          className={`link ${pathname === "/about-me" ? "active" : ""}`}
+          href="/about-me"
         >
           About Me
         </Link>
         <Link
-          className={`link ${pathname === "/about" ? "active" : ""}`}
-          href="/about"
+          className={`link ${pathname === "/contact-me" ? "active" : ""}`}
+          href="/contact-me"
         >
           Contact me
         </Link>
