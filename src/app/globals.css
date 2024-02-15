@@ -94,3 +94,19 @@ body{
   .skills-title{
 
   }
+
+  .contact-form{
+    width: 30%;
+    background-color: #17172f;
+    color: #f6e8d5;
+    padding: 4%;
+    border-radius: 2rem;
+  }
+
+  .contact-icon-wrapper{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    gap: 5%;
+    margin: 5% 0;
+  }
